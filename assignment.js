@@ -37,7 +37,7 @@ function brickCalculator(flatFloor)
 
 
 // the function is find tiny friends
-function tinyFriends(name)
+function tinyFriend(name)
 {
          var tiny=Infinity;
         
@@ -53,11 +53,7 @@ function tinyFriends(name)
  return name[result];
 }
 
-console.log(feetToMile(-5));
-console.log(woodCalculator(5,6,7));
-console.log(brickCalculator(1));
-var friends=["rohim","jil","jababr"," "];
-console.log(tinyFriends(friends));
+
 
 
 
